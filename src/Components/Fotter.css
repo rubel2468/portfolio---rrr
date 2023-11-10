@@ -1,0 +1,33 @@
+
+.f-left{
+    background-color: aliceblue;
+      color: #241f1f;
+    }
+    .f-right{
+      background-color:  rgb(71, 27, 190);
+      color: aliceblue;
+      display: flex;
+      justify-content: space-around;
+    margin: 0;
+      padding: 3rem;
+      flex-wrap: wrap;
+    }
+    .icon{
+    color: rgb(71, 27, 190);
+    font-size: 1rem;
+    margin-left: 3rem;
+    margin-top: 1.6rem;
+    
+    }
+    .copyright{
+    background-color: rgb(71, 27, 190) ;
+    margin-top: 0;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding-bottom: 2rem;
+    
+    
+    }
+ 
